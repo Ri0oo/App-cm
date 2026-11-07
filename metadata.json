@@ -1,0 +1,6 @@
+{
+  "name": "Candle Mindset",
+  "description": "Candle Mindset AI Signal - Capture trading chart screenshots instantly via floating overlay icon, manage activity logs, and upload to the signal generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
